@@ -1,0 +1,7 @@
+    -> $tasklist = new App\Task; 
+    -> exit;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$tasklist = new App
+$tasklist = new App
+$tasklist = new App 
+exit' at line 1
+mysql> exit
